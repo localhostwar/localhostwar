@@ -1,7 +1,7 @@
 - 👋 Hi, we are developers
-- 👀 I’m interested in frontend projects
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on frontend ideas, web3
+- 👀 We're interested in frontend projects
+- 🌱 We're currently learning MERN
+- 💞️ We're looking to collaborate on frontend ideas, web3
 - 📫 How to reach us, write at localhost409@gmail.com
 
 <!---
